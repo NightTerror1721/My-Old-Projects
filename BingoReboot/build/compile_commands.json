@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Projects/MyOldProjects/BingoReboot/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\Preview\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -external:ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++latest -MDd /FoCMakeFiles\\BingoReborn.dir\\src\\main.cpp.obj /FdCMakeFiles\\BingoReborn.dir\\ /FS -c D:\\Projects\\MyOldProjects\\BingoReboot\\src\\main.cpp",
+  "file": "D:\\Projects\\MyOldProjects\\BingoReboot\\src\\main.cpp",
+  "output": "CMakeFiles\\BingoReborn.dir\\src\\main.cpp.obj"
+}
+]
